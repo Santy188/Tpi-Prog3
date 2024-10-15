@@ -1,0 +1,6 @@
+@Tpi_Ecommerce_HostAddress = http://localhost:5200
+
+GET {{Tpi_Ecommerce_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
