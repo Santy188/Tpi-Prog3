@@ -1,0 +1,16 @@
+C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Aplication\bin\Debug\net8.0\Aplication.deps.json
+C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Aplication\bin\Debug\net8.0\Aplication.dll
+C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Aplication\bin\Debug\net8.0\Aplication.pdb
+C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Aplication\bin\Debug\net8.0\Domain.dll
+C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Aplication\bin\Debug\net8.0\Domain.pdb
+C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Aplication\obj\Debug\net8.0\Aplication.csproj.AssemblyReference.cache
+C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Aplication\obj\Debug\net8.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfoInputs.cache
+C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfo.cs
+C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Aplication\obj\Debug\net8.0\Aplication.csproj.CoreCompileInputs.cache
+C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Aplication\obj\Debug\net8.0\Aplication.sourcelink.json
+C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Aplication\obj\Debug\net8.0\Aplication.csproj.Up2Date
+C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Aplication\obj\Debug\net8.0\Aplication.dll
+C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Aplication\obj\Debug\net8.0\refint\Aplication.dll
+C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Aplication\obj\Debug\net8.0\Aplication.pdb
+C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Aplication\obj\Debug\net8.0\ref\Aplication.dll

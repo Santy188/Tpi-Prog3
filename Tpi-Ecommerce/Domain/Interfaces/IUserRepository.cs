@@ -9,7 +9,7 @@ namespace Domain.Interfaces
 {
     public interface IUserRepository
     {
-        User GetUserByName(string name);
-        int Adduser(User user); 
+        User GetUserById(int id);
+        int AddUser(User user); 
     }
 }

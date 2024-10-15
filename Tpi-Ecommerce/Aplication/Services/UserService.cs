@@ -16,9 +16,9 @@ namespace Aplication.Services
         {
             _userRepository = userRepository;
         }
-        public User GetUserByName(string name)
+        public User GetUserById(int id)
         {
-            return _userRepository.GetUserByName(name);
+            return _userRepository.GetUserById(id);
         }
         public int AddUser(User user)
         {
@@ -28,7 +28,7 @@ namespace Aplication.Services
                 Email = user.Email,
                 Password = user.Password,
             };
-            return _userRepository.Adduser(obj);
+            return _userRepository.AddUser(obj);
         }
     }
 }

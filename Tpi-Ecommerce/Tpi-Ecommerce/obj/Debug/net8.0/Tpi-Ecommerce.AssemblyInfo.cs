@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tpi-Ecommerce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2a8513292033d555eadfa1379907adeb49e1efa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27cf74280e832503d16bb5403af9062aaf4dff14")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tpi-Ecommerce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tpi-Ecommerce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
