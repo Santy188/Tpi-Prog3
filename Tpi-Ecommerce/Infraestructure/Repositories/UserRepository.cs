@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Repositories
 {
-    internal class UserRepository : IUserRepository
+    public class UserRepository : IUserRepository
     {
         private readonly AppDbContext _context;
         public UserRepository(AppDbContext context)
