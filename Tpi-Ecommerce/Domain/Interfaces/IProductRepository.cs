@@ -12,7 +12,6 @@ namespace Domain.Interfaces
         List<Product> GetAll();
         Product GetById(int id);
         Product GetByName(string name);
-
         void AddProduct(Product product);
         void UpdateProduct(Product product);
         void DeleteProduct(Product product);

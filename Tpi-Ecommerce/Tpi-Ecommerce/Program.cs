@@ -1,4 +1,6 @@
 
+using Domain.Interfaces;
+using Domain.Repositories;
 using Infraestructure;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -21,6 +23,10 @@ var app = builder.Build();
 
 
 builder.Services.AddScoped<AppDbContext>();
+
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
