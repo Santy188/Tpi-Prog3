@@ -1,4 +1,6 @@
-﻿using Domain.Entities;
+﻿using Aplication.Interfaces;
+using Aplication.Models.Request;
+using Domain.Entities;
 using Domain.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -8,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Aplication.Services
 {
-    public class UserService 
+    public class UserService : IUserService
     {
         private readonly IUserRepository _userRepository;
 
@@ -20,15 +22,21 @@ namespace Aplication.Services
         {
             return _userRepository.GetUserById(id);
         }
-        public int AddUser(User user)
+        public int AddUser(AddUserRequest newUser)
         {
             var obj = new User()
             {
-                Name = user.Name,
-                Email = user.Email,
-                Password = user.Password,
+                Name = newUser.Name,
+                Email = newUser.Email,
+                Password = newUser.Password,
+                UserType = newUser.UserType,
             };
             return _userRepository.AddUser(obj);
+        }
+
+        public User? GetByName(string name)
+        {
+            throw new NotImplementedException();
         }
     }
 }

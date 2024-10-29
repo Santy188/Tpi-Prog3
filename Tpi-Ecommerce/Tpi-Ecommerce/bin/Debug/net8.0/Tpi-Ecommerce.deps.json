@@ -10,7 +10,6 @@
         "dependencies": {
           "Aplication": "1.0.0",
           "Infraestructure": "1.0.0",
-          "Microsoft.Data.Sqlite.Core": "8.0.10",
           "Microsoft.EntityFrameworkCore.Design": "8.0.10",
           "Swashbuckle.AspNetCore": "6.4.0"
         },

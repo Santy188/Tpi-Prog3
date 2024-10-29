@@ -20,19 +20,32 @@ namespace Infraestructure.Repositories
         public Order GetOrderById(int id) {  return _context.Orders.FirstOrDefault(o => o.Id == id); }
         public void CreateOrder(Order order)
         {
-            throw new NotImplementedException();
+            _context.Orders.Add(order);
+            _context.SaveChanges();
         }
 
         public void UpdateOrder(Order order)
         {
-            throw new NotImplementedException();
+            _context.Orders.Add(order);
+            _context.SaveChanges();
         }
 
         public bool DeleteOrder(int id)
         {
-            throw new NotImplementedException();
+            var order = _context.Orders.Find(id);
+            if (order != null)
+            {
+                _context.Orders.Remove(order);
+                _context.SaveChanges();
+                return true;
+            }
+            return false;
         }
 
-        private readonly 
+        public void SaveChanges()
+        {
+            _context.SaveChanges();
+        }
+
     }
 }

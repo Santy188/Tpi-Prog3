@@ -1,4 +1,5 @@
-﻿using Domain.Entities;
+﻿using Aplication.Interfaces;
+using Domain.Entities;
 using Domain.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Aplication.Services
 {
-    public class OrderService
+    public class OrderService : IOrderService
     {
         private readonly IOrderRepository _orderRepository;
         public OrderService(IOrderRepository orderRepository)

@@ -1,7 +1,10 @@
 
+using Aplication.Interfaces;
+using Aplication.Services;
 using Domain.Interfaces;
 using Domain.Repositories;
 using Infraestructure;
+using Infraestructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
@@ -19,12 +22,22 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite(
 builder.Configuration["ConnectionStrings:DBConnectionString"]));
 
-var app = builder.Build();
-
 
 builder.Services.AddScoped<AppDbContext>();
 
 builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+
+builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<IOrderService, OrderService>();
+
+
+var app = builder.Build();
+
+
+
 
 
 
