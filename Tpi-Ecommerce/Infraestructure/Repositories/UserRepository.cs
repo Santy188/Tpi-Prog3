@@ -1,13 +1,12 @@
-﻿using Domain.Interfaces;
-using Domain.Entities;
-using Infraestructure;
+﻿using Domain.Entities;
+using Domain.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Repositories
+namespace Infraestructure.Repositories
 {
     public class UserRepository : IUserRepository
     {
@@ -20,13 +19,13 @@ namespace Domain.Repositories
         {
             return _context.Users.FirstOrDefault(x => x.Id == id);
         }
-        public int AddUser(User user)
-        {
+
+         public User? GetByName(string name) { return _context.Users.FirstOrDefault(y => y.Name == name); }
+         public int AddUser(User user)
+         {
             _context.Users.Add(user);
             _context.SaveChanges();
             return user.Id;
-        }
-            
-
+         }
     }
 }

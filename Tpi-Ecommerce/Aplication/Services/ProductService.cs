@@ -46,11 +46,34 @@ namespace Aplication.Services
         }
         public void UpdateProduct(Product product)
         {
+            var productToUpdate = _repository.GetByName(product.ProductName);
+            if (productToUpdate != null)
+            {
+                productToUpdate.ProductName = product.ProductName;
+                productToUpdate.ProductDescription = product.ProductDescription;
+                productToUpdate.ProductPrice = product.ProductPrice;
+                productToUpdate.ProductStock = product.ProductStock;
+
+                _repository.UpdateProduct(productToUpdate);
+                _repository.SaveChanges();
+            }
+        }
+        public bool DeleteProduct(string name) 
+        {
+            var productDeleted = _repository.GetByName(name);
+            if(productDeleted != null)
+            {
+                _repository.DeleteProduct(productDeleted);
+                _repository.SaveChanges();
+                return true;
+            }
+            else return false;
 
         }
-        public void DeleteProduct(Product Product) 
-        { 
-
+        public void SaveChanges()
+        {
+            _repository.SaveChanges();
         }
+
     }
 }

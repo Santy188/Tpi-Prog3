@@ -10,6 +10,8 @@ namespace Domain.Interfaces
     public interface IUserRepository
     {
         User GetUserById(int id);
-        int AddUser(User user); 
+        User? GetByName(string name);
+        int AddUser(User user);
+        
     }
 }

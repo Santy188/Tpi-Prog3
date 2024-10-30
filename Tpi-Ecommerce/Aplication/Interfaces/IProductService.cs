@@ -18,7 +18,9 @@ namespace Aplication.Interfaces
 
         void UpdateProduct(Product product);
 
-        void DeleteProduct(Product product);
+        bool DeleteProduct(string name);
+
+        void SaveChanges();
 
     }
 }

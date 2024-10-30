@@ -2,7 +2,6 @@
 using Aplication.Interfaces;
 using Aplication.Services;
 using Domain.Interfaces;
-using Domain.Repositories;
 using Infraestructure;
 using Infraestructure.Repositories;
 using Microsoft.EntityFrameworkCore;

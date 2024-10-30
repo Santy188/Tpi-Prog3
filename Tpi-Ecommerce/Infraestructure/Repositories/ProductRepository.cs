@@ -38,6 +38,10 @@ namespace Infraestructure.Repositories
             _context.Products.Remove(product);
             _context.SaveChanges();
         }
+        public void SaveChanges()
+        {
+            _context.SaveChanges();
+        }
 
     }
 }

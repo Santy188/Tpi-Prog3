@@ -18,6 +18,10 @@ namespace Aplication.Services
         {
             _userRepository = userRepository;
         }
+        public User? GetByName(string name)
+        {
+            return _userRepository.GetByName(name);
+        }
         public User GetUserById(int id)
         {
             return _userRepository.GetUserById(id);
@@ -34,9 +38,6 @@ namespace Aplication.Services
             return _userRepository.AddUser(obj);
         }
 
-        public User? GetByName(string name)
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }

@@ -11,6 +11,7 @@ namespace Aplication.Interfaces
     public interface IUserService
     {
         User? GetByName(string name);
+        User GetUserById(int id);
         int AddUser(AddUserRequest user); 
     }
 }
