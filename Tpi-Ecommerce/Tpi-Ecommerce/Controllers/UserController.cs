@@ -19,11 +19,13 @@ namespace Tpi_Ecommerce.Controllers
         public ActionResult<User?> GetByName(string name) { return Ok(_userService.GetByName(name)); }
 
         [HttpPost]
-        public IActionResult Add([FromBody]AddUserRequest request) 
+        public ActionResult Add([FromBody]AddUserRequest request) 
         {
             if(!ModelState.IsValid)
             {  return BadRequest(ModelState.Values.ToList()); }
             return Ok(_userService.AddUser(request));
         }
+       
+
     }
 }

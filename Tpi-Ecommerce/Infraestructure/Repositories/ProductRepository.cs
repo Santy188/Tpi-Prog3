@@ -23,6 +23,10 @@ namespace Infraestructure.Repositories
         
         public Product GetByName(string name) { return _context.Products.FirstOrDefault(p => p.ProductName == name); }
 
+        public List<Product> GetProductsById(IList<int> Ids)
+        {
+            return _context.Products.Where(p => Ids.Contains(p.Id)).ToList();
+        }
         public void AddProduct(Product product)
         {
             _context.Products.Add(product);

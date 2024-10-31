@@ -16,6 +16,7 @@ namespace Domain.Interfaces
         void UpdateProduct(Product product);
         void DeleteProduct(Product product);
         void SaveChanges();
+        public List<Product> GetProductsById(IList<int> ids);
 
     }
 }

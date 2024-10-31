@@ -10,10 +10,10 @@ namespace Aplication.Models.Request
     public class UpdateProductRequest
     {
         [Required]
-        [MaxLength(15), MinLength(3)]
+        [MaxLength(50), MinLength(3)]
         public string Name { get; set; }
         [Required]
-        [Range(0, 3000000)]
+        [Range(0, 10000000)]
         public decimal Price { get; set; }
         [Required]
         [Range(0, 10000)]

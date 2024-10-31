@@ -10,9 +10,10 @@ namespace Domain.Interfaces
     public interface IOrderRepository
     {
         List<Order> GetAll();
-        Order GetOrderById(int id);
+        Order? GetOrderById(int id);
         void CreateOrder(Order order);
         void UpdateOrder(Order order);
         bool DeleteOrder(int id);
+        void SaveChanges();
     }
 }

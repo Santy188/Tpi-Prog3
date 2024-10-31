@@ -1,5 +1,6 @@
 ﻿using Domain.Entities;
 using Domain.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,8 +17,14 @@ namespace Infraestructure.Repositories
         {
             _context = context;
         }
-        public List<Order> GetAll() { return _context.Orders.ToList(); }
-        public Order GetOrderById(int id) {  return _context.Orders.FirstOrDefault(o => o.Id == id); }
+        public List<Order> GetAll() 
+        {
+            return _context.Orders.Include(o => o.ClientUser).Include(o=> o.Products).ToList();
+        }
+        public Order? GetOrderById(int id) 
+        {
+            return _context.Orders.Include(o=> o.ClientUser).Include(o=> o.Products).First(o=> o.Id == id);
+        }
         public void CreateOrder(Order order)
         {
             _context.Orders.Add(order);
@@ -26,7 +33,7 @@ namespace Infraestructure.Repositories
 
         public void UpdateOrder(Order order)
         {
-            _context.Orders.Add(order);
+            _context.Orders.Update(order);
             _context.SaveChanges();
         }
 
