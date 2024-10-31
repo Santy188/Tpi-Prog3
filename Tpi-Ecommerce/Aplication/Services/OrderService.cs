@@ -34,6 +34,7 @@ namespace Aplication.Services
         public OrderDTO? GetOrderById(int id)
         {
             var order = _orderRepository.GetOrderById(id);
+            if(order == null) { return null; }
 
             order.OrderPrice = order.Products.Sum(p=> p.ProductPrice);
 

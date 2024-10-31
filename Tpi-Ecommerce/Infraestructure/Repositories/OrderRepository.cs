@@ -23,7 +23,7 @@ namespace Infraestructure.Repositories
         }
         public Order? GetOrderById(int id) 
         {
-            return _context.Orders.Include(o=> o.ClientUser).Include(o=> o.Products).First(o=> o.Id == id);
+            return _context.Orders.Include(o=> o.ClientUser).Include(o=> o.Products).FirstOrDefault(o=> o.Id == id);
         }
         public void CreateOrder(Order order)
         {
