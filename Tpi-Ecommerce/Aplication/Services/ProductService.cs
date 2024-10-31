@@ -44,15 +44,14 @@ namespace Aplication.Services
             _repository.AddProduct(newProd);
             _repository.SaveChanges();
         }
-        public void UpdateProduct(Product product)
+        public void UpdateProduct(string name,UpdateProductRequest product)
         {
-            var productToUpdate = _repository.GetByName(product.ProductName);
+            var productToUpdate = _repository.GetByName(product.Name);
             if (productToUpdate != null)
             {
-                productToUpdate.ProductName = product.ProductName;
-                productToUpdate.ProductDescription = product.ProductDescription;
-                productToUpdate.ProductPrice = product.ProductPrice;
-                productToUpdate.ProductStock = product.ProductStock;
+                productToUpdate.ProductName = product.Name;
+                productToUpdate.ProductPrice = product.Price;
+                productToUpdate.ProductStock = product.Stock;
 
                 _repository.UpdateProduct(productToUpdate);
                 _repository.SaveChanges();

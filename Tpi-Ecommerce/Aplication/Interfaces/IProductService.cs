@@ -16,7 +16,7 @@ namespace Aplication.Interfaces
         
         void AddProduct(AddProductRequest request);
 
-        void UpdateProduct(Product product);
+        void UpdateProduct(string name, UpdateProductRequest product);
 
         bool DeleteProduct(string name);
 
