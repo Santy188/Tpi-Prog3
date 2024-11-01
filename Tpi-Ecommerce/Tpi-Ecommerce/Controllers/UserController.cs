@@ -1,6 +1,7 @@
 ﻿using Aplication.Interfaces;
 using Aplication.Models.Request;
 using Domain.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,7 +17,14 @@ namespace Tpi_Ecommerce.Controllers
             _userService = userService;
         }
         [HttpGet]
-        public ActionResult<User?> GetByName(string name) { return Ok(_userService.GetByName(name)); }
+       // [Authorize(Roles = "Administrador")]
+        public ActionResult<User?> GetByName(string name) 
+        {  
+            var result = _userService.GetByName(name);
+            if(result == null)  return NotFound("Usuario no registrado"); 
+            return result;
+              
+        }
 
         [HttpPost]
         public ActionResult Add([FromBody]AddUserRequest request) 

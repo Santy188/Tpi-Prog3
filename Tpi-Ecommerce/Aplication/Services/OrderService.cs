@@ -46,7 +46,8 @@ namespace Aplication.Services
         {
             var products = _productRepository.GetProductsById(orders.ProductsId);
             var user = _userRepository.GetByName(orders.Username);
-            if (products.Count == 0) { return false; }
+            if (user == null)  return false; 
+            if (products.Count == 0)  return false; 
             var obj = new Order()
             {
                 OrderState = orders.OrderState,

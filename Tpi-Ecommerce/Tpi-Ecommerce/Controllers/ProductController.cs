@@ -1,5 +1,6 @@
 ﻿using Aplication.Interfaces;
 using Aplication.Models.Request;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,6 +8,7 @@ namespace Tpi_Ecommerce.Controllers
 {
     [Route("api/[controller]/[action]")]
     [ApiController]
+    
     public class ProductController : ControllerBase
     {
         private readonly IProductService _productService;
@@ -26,7 +28,7 @@ namespace Tpi_Ecommerce.Controllers
             if (prod == null) { return NotFound("Product not Found"); }
             return Ok(prod);    
         }
-
+        [Authorize(Roles = "Administrador")]
         [HttpPost]
         public ActionResult AddProduct(AddProductRequest request)
         {
@@ -37,6 +39,7 @@ namespace Tpi_Ecommerce.Controllers
             _productService.AddProduct(request);
             return Ok();
         }
+        [Authorize(Roles = "Administrador")]
         [HttpPut]
         public ActionResult UpdateProduct(string name, UpdateProductRequest request)
         {
@@ -47,6 +50,7 @@ namespace Tpi_Ecommerce.Controllers
             _productService.UpdateProduct(name, request);
             return NoContent();
         }
+        [Authorize(Roles = "Administrador")]
         [HttpDelete]
         public ActionResult DeleteProduct(string name)
         {

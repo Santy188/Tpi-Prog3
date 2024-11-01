@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\tpi-ecommerce\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|solutionrelative:tpi-ecommerce\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\aplication\\models\\request\\updateorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|solutionrelative:aplication\\models\\request\\updateorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F18464B-3450-4208-A35D-F9007A667C40}|Infraestructure\\Infraestructure.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\infraestructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F18464B-3450-4208-A35D-F9007A667C40}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +19,52 @@
       "RelativeMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|solutionrelative:aplication\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\aplication\\models\\request\\updateorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|solutionrelative:aplication\\models\\request\\updateorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\aplication\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|solutionrelative:aplication\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\tpi-ecommerce\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|solutionrelative:tpi-ecommerce\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\tpi-ecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|solutionrelative:tpi-ecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\aplication\\models\\request\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|solutionrelative:aplication\\models\\request\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\tpi-ecommerce\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|solutionrelative:tpi-ecommerce\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CADA242-5A36-4D61-8278-489B557E6C61}|Domain\\Domain.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CADA242-5A36-4D61-8278-489B557E6C61}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CADA242-5A36-4D61-8278-489B557E6C61}|Domain\\Domain.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\domain\\enum\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CADA242-5A36-4D61-8278-489B557E6C61}|Domain\\Domain.csproj|solutionrelative:domain\\enum\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\tpi-ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|solutionrelative:tpi-ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\tpi-ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|solutionrelative:tpi-ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\aplication\\services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|solutionrelative:aplication\\services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\tpi-ecommerce\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|solutionrelative:tpi-ecommerce\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\aplication\\interfaces\\icustomauthenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\icustomauthenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\aplication\\models\\request\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|solutionrelative:aplication\\models\\request\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CADA242-5A36-4D61-8278-489B557E6C61}|Domain\\Domain.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\domain\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,24 +91,8 @@
       "RelativeMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|solutionrelative:aplication\\models\\request\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\aplication\\models\\request\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|solutionrelative:aplication\\models\\request\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\aplication\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|solutionrelative:aplication\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\tpi-ecommerce\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|solutionrelative:tpi-ecommerce\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\tpi-ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|solutionrelative:tpi-ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\tpi-ecommerce\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|solutionrelative:tpi-ecommerce\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CADA242-5A36-4D61-8278-489B557E6C61}|Domain\\Domain.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,10 +107,6 @@
       "RelativeMoniker": "D:0:0:{6F18464B-3450-4208-A35D-F9007A667C40}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\tpi-ecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A7F04DE-95B8-43C6-8EAB-EF64F183F716}|Tpi-Ecommerce\\Tpi-Ecommerce.csproj|solutionrelative:tpi-ecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\aplication\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|solutionrelative:aplication\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -89,10 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\aplication\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|solutionrelative:aplication\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CADA242-5A36-4D61-8278-489B557E6C61}|Domain\\Domain.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CADA242-5A36-4D61-8278-489B557E6C61}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{748279B7-54F1-4AD4-AD26-12C61FA98ACB}|Aplication\\Aplication.csproj|c:\\vstudio\\repos\\tpi-prog3\\tpi-ecommerce\\aplication\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,289 +134,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 188,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICustomAuthenticateService.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Interfaces\\ICustomAuthenticateService.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\ICustomAuthenticateService.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Interfaces\\ICustomAuthenticateService.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\ICustomAuthenticateService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:23:07.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Tpi-Ecommerce\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Tpi-Ecommerce\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:07:48.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UpdateOrderRequest.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\Request\\UpdateOrderRequest.cs",
+              "RelativeDocumentMoniker": "Aplication\\Models\\Request\\UpdateOrderRequest.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\Request\\UpdateOrderRequest.cs",
+              "RelativeToolTip": "Aplication\\Models\\Request\\UpdateOrderRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:27:52.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "Aplication\\Services\\OrderService.cs",
               "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Services\\OrderService.cs",
               "RelativeToolTip": "Aplication\\Services\\OrderService.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAiwCUAAAAAAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAvwDEAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T04:17:15.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderDTO.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\OrderDTO.cs",
-              "RelativeDocumentMoniker": "Aplication\\Models\\OrderDTO.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\OrderDTO.cs",
-              "RelativeToolTip": "Aplication\\Models\\OrderDTO.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAMwBcAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T17:52:00.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Tpi-Ecommerce\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Tpi-Ecommerce\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAIAwwB8AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T03:07:48.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Infraestructure\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Infraestructure\\Repositories\\OrderRepository.cs",
               "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Infraestructure\\Repositories\\OrderRepository.cs",
               "RelativeToolTip": "Infraestructure\\Repositories\\OrderRepository.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAkwB0AAAAnAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwB4AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T18:52:06.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateOrderRequest.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\Request\\UpdateOrderRequest.cs",
-              "RelativeDocumentMoniker": "Aplication\\Models\\Request\\UpdateOrderRequest.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\Request\\UpdateOrderRequest.cs",
-              "RelativeToolTip": "Aplication\\Models\\Request\\UpdateOrderRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAsAAAA",
+              "DocumentIndex": 9,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Enum\\UserType.cs",
+              "RelativeDocumentMoniker": "Domain\\Enum\\UserType.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Enum\\UserType.cs",
+              "RelativeToolTip": "Domain\\Enum\\UserType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T16:27:52.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Interfaces\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IOrderRepository.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Interfaces\\IOrderRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IOrderRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAwAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T04:18:33.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Interfaces\\IOrderService.cs",
-              "RelativeDocumentMoniker": "Aplication\\Interfaces\\IOrderService.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Interfaces\\IOrderService.cs",
-              "RelativeToolTip": "Aplication\\Interfaces\\IOrderService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAewA4AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T03:09:49.752Z"
+              "WhenOpened": "2024-11-01T01:16:14.247Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "Domain\\Entities\\Product.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBQAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T23:59:57.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "Domain\\Entities\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T19:48:20.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Aplication\\Services\\ProductService.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Services\\ProductService.cs",
-              "RelativeToolTip": "Aplication\\Services\\ProductService.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAEwDAAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T23:47:13.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UpdateProductRequest.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\Request\\UpdateProductRequest.cs",
-              "RelativeDocumentMoniker": "Aplication\\Models\\Request\\UpdateProductRequest.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\Request\\UpdateProductRequest.cs",
-              "RelativeToolTip": "Aplication\\Models\\Request\\UpdateProductRequest.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T23:09:38.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Tpi-Ecommerce\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Tpi-Ecommerce\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-31T17:34:04.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AddProductRequest.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\Request\\AddProductRequest.cs",
-              "RelativeDocumentMoniker": "Aplication\\Models\\Request\\AddProductRequest.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\Request\\AddProductRequest.cs",
-              "RelativeToolTip": "Aplication\\Models\\Request\\AddProductRequest.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T23:40:24.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Program.cs",
-              "RelativeDocumentMoniker": "Tpi-Ecommerce\\Program.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Program.cs",
-              "RelativeToolTip": "Tpi-Ecommerce\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T00:22:01.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Interfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Interfaces\\IProductRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAawBUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T00:35:21.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Tpi-Ecommerce\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Tpi-Ecommerce\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAIA0wBsAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T20:50:43.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "20241031164638_test-2.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Infraestructure\\Migrations\\20241031164638_test-2.cs",
-              "RelativeDocumentMoniker": "Infraestructure\\Migrations\\20241031164638_test-2.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Infraestructure\\Migrations\\20241031164638_test-2.cs",
-              "RelativeToolTip": "Infraestructure\\Migrations\\20241031164638_test-2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T16:46:38.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Infraestructure\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Infraestructure\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Infraestructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T00:43:45.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Tpi-Ecommerce\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Tpi-Ecommerce\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T23:02:25.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "Aplication\\Models\\ProductDTO.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\ProductDTO.cs",
-              "RelativeToolTip": "Aplication\\Models\\ProductDTO.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAmwB4AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T18:00:06.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Infraestructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Infraestructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Infraestructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T19:23:57.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Aplication\\Services\\UserService.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Services\\UserService.cs",
-              "RelativeToolTip": "Aplication\\Services\\UserService.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAkwBQAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T18:18:26.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "Aplication\\Interfaces\\IProductService.cs",
-              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Interfaces\\IProductService.cs",
-              "RelativeToolTip": "Aplication\\Interfaces\\IProductService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAsAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T18:40:23.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserRepository.cs",
@@ -400,11 +224,311 @@
               "RelativeToolTip": "Domain\\Interfaces\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T19:09:28.813Z"
+              "WhenOpened": "2024-10-30T19:09:28.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Aplication\\Services\\ProductService.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Services\\ProductService.cs",
+              "RelativeToolTip": "Aplication\\Services\\ProductService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAEwDAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:47:13.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Tpi-Ecommerce\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Tpi-Ecommerce\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:02:25.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddProductRequest.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\Request\\AddProductRequest.cs",
+              "RelativeDocumentMoniker": "Aplication\\Models\\Request\\AddProductRequest.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\Request\\AddProductRequest.cs",
+              "RelativeToolTip": "Aplication\\Models\\Request\\AddProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:40:24.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Tpi-Ecommerce\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Tpi-Ecommerce\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAwwBgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:50:43.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "Tpi-Ecommerce\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "Tpi-Ecommerce\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:20:48.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Program.cs",
+              "RelativeDocumentMoniker": "Tpi-Ecommerce\\Program.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Program.cs",
+              "RelativeToolTip": "Tpi-Ecommerce\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAEwBQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:22:01.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "Tpi-Ecommerce\\appsettings.json",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\appsettings.json",
+              "RelativeToolTip": "Tpi-Ecommerce\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T00:05:51.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthenticateService.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Services\\AuthenticateService.cs",
+              "RelativeDocumentMoniker": "Aplication\\Services\\AuthenticateService.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Services\\AuthenticateService.cs",
+              "RelativeToolTip": "Aplication\\Services\\AuthenticateService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAvwEAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:30:25.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthenticateRequest.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\Request\\AuthenticateRequest.cs",
+              "RelativeDocumentMoniker": "Aplication\\Models\\Request\\AuthenticateRequest.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\Request\\AuthenticateRequest.cs",
+              "RelativeToolTip": "Aplication\\Models\\Request\\AuthenticateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:23:56.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "Aplication\\Models\\OrderDTO.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\OrderDTO.cs",
+              "RelativeToolTip": "Aplication\\Models\\OrderDTO.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAMwBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:52:00.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:18:33.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAewA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:09:49.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:59:57.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:48:20.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateProductRequest.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\Request\\UpdateProductRequest.cs",
+              "RelativeDocumentMoniker": "Aplication\\Models\\Request\\UpdateProductRequest.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\Request\\UpdateProductRequest.cs",
+              "RelativeToolTip": "Aplication\\Models\\Request\\UpdateProductRequest.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:09:38.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Tpi-Ecommerce\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Tpi-Ecommerce\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Tpi-Ecommerce\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAABRwBAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T17:34:04.229Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAawBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:35:21.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241031164638_test-2.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Infraestructure\\Migrations\\20241031164638_test-2.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Migrations\\20241031164638_test-2.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Infraestructure\\Migrations\\20241031164638_test-2.cs",
+              "RelativeToolTip": "Infraestructure\\Migrations\\20241031164638_test-2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:46:38.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Infraestructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Infraestructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:43:45.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Aplication\\Models\\ProductDTO.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Models\\ProductDTO.cs",
+              "RelativeToolTip": "Aplication\\Models\\ProductDTO.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwB4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:00:06.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Infraestructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Infraestructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:23:57.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Aplication\\Services\\UserService.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Services\\UserService.cs",
+              "RelativeToolTip": "Aplication\\Services\\UserService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wBQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:18:26.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Aplication\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Aplication\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:40:23.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\VStudio\\Repos\\Tpi-Prog3\\Tpi-Ecommerce\\Aplication\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Aplication\\Interfaces\\IUserService.cs",
@@ -412,7 +536,8 @@
               "RelativeToolTip": "Aplication\\Interfaces\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T19:12:00.151Z"
+              "WhenOpened": "2024-10-29T19:12:00.151Z",
+              "EditorCaption": ""
             }
           ]
         }

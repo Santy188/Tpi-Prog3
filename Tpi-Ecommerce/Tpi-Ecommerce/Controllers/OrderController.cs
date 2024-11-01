@@ -2,6 +2,7 @@
 using Aplication.Models;
 using Aplication.Models.Request;
 using Domain.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,6 +17,7 @@ namespace Tpi_Ecommerce.Controllers
         {
             _orderService = orderService;
         }
+        [Authorize(Roles = "Administrador")]
         [HttpGet]
         public ActionResult<List<OrderDTO>> GetOrders()
         {

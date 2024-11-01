@@ -173,3 +173,4 @@ C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Tpi-Ecommerce\bin\Debug\net8.0\runtimes
 C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Tpi-Ecommerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Tpi-Ecommerce\bin\Debug\net8.0\Infraestructure.dll
 C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Tpi-Ecommerce\bin\Debug\net8.0\Infraestructure.pdb
+C:\VStudio\Repos\Tpi-Prog3\Tpi-Ecommerce\Tpi-Ecommerce\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
